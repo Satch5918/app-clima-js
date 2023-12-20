@@ -6,3 +6,6 @@ Hecho con JavaScript, Html y Css
 ![image](https://github.com/Satch5918/app-clima-js/assets/79940633/179d75b0-5fe2-441b-a224-db4b69271503)
 
 ![image](https://github.com/Satch5918/app-clima-js/assets/79940633/80914ff2-4eeb-40ae-b7a6-ac2bc76b7e2e)
+
+![image](https://github.com/Satch5918/app-clima-js/assets/79940633/03356536-a17c-44c4-8fc8-7229e25aefba)
+
